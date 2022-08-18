@@ -5,9 +5,17 @@ div{
 img{
     display: block;
     width: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 input{
     display: block;
     width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 24px;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
 }
